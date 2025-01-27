@@ -27,3 +27,14 @@ yarn-error.log*
 
 # Ignore ESLint files
 .eslintcache
+# Node modules
+node_modules/
+
+# Build directory
+build/
+
+# .env files (if any)
+.env
+
+# Logs
+*.log
